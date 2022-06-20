@@ -1,1 +1,5 @@
-{"type": "commonjs"}
+{
+  "scripts": {
+    "build": "[my-framework] build --output public"
+  }
+}
